@@ -1,0 +1,10 @@
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Ramesh', 'I am a painter', 'Painter', 400, 2);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Mahesh', 'I am a painter', 'Painter', 500, 4);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Suresh', 'I am a painter', 'Painter', 700, 2);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Naresh', 'I am a painter', 'Painter', 200, 7);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Magan', 'I am a construction worker', 'Contruction', 300, 9);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Bittu', 'I am a construction worker', 'Construction', 400, 3);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Kamlesh', 'I am a construction worker', 'Construction', 600, 5);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Raja', 'I am a construction worker', 'Construction', 400, 2);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Rajan', 'I am a painter', 'Painter', 300, 2);
+INSERT INTO worker (name, description, category, per_day_wage, days) VALUES ('Vicky', 'I am a painter', 'Painter', 200, 2);
